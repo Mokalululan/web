@@ -1,0 +1,60 @@
+table {
+    border: 1px ridge rgb(80, 79, 79);
+    border-collapse: collapse;
+}
+
+th, td {
+    width: 50px;
+    text-align: center;
+    border: 3px  ridge rgb(104, 103, 103);
+}
+.BIO{
+    background-color: rgb(172, 241, 236);
+}
+.SEI{
+    background-color: rgb(110, 105, 105);
+}
+.MAT{
+    background-color: rgb(68, 155, 236);
+}
+.SJL{
+    background-color: rgb(117, 135, 212);
+}
+.NEJ{
+    background-color: rgb(64, 214, 207);
+}
+.OBN{
+    background-color: rgb(114, 158, 224);
+}
+.CHEM{
+    background-color: rgb(94, 53, 99);
+}
+.DEJ{
+    background-color: rgba(243, 9, 223, 0.849);
+}
+.GEO{
+    background-color: rgb(89, 0, 255);
+}
+.ANJ{
+    background-color: rgb(140, 0, 255);
+}
+.INF{
+    background-color: rgb(117, 92, 163);
+}
+.FYZ{
+    background-color: rgb(173, 133, 248);
+}
+.TSV{
+    background-color: rgb(104, 233, 205);
+}
+.SEM{
+    background-color: rgb(236, 104, 225);
+}
+.under{
+    border-bottom: 2PX solid black;
+    vertical-align: bottom;
+}
+.low{
+    font-size: 0px;
+    vertical-align: bottom;
+}
